@@ -1,0 +1,8 @@
+json{
+  "name": "meal-plan",
+  "version": "1.0.0",
+  "description": "Create personalized weekly meal plan documents tailored to a specific person, diet type, and grocery source. Modular and extensible: new diet types, grocery sources, and profiles can be added over time by creating reference files.",
+  "author": {
+    "name": "Melissa"
+  }
+}
