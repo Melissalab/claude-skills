@@ -1,0 +1,17 @@
+{
+  "name": "melissa-skills",
+  "owner": {
+    "name": "Melissa"
+  },
+  "description": "Personal library of skills for Claude, covering meal plans, client work, and creative projects.",
+  "plugins": [
+    {
+      "name": "meal-plan",
+      "source": "./plugins/meal-plan",
+      "description": "Create personalized weekly meal plan documents tailored to a specific person, diet type (diabetic, weight loss, muscle gain, etc.), and grocery source (Kroger, Whole Foods, Amazon Fresh, etc.). The output is a polished Word document in a warm friend-to-friend voice.",
+      "version": "1.0.0",
+      "category": "lifestyle",
+      "tags": ["meal-planning", "nutrition", "document-generation", "diabetic"]
+    }
+  ]
+}
